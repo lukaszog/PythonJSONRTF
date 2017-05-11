@@ -12,4 +12,6 @@ for dump in data['feed']['entry']:
     print dump['published']['$t'] #wszystkie daty
     print dump['content']['$t'] #wszystkie tresci
 
+# chce zrobic klase, w klasie pobieranie, stworzenie jednego duzego slownika z danymi
+# slownik wrzucic do rtfa
 
